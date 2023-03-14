@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MetaKart</string>
+    <string name="facebook_app_id">386680100265281</string>
+    <string name="fb_login_protocol_scheme">fb386680100265281</string>
+    <string name="facebook_client_token">837591994568736a85566b034d36dc28</string>
+</resources>

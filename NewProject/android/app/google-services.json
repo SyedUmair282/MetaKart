@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "377406759720",
+    "project_id": "ecommercenative-4dc9d",
+    "storage_bucket": "ecommercenative-4dc9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377406759720:android:4e42558374fb751b3c261d",
+        "android_client_info": {
+          "package_name": "com.ecommercenative.newproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377406759720-gp6ake83k275l40hs0h2d36nsf8kdrvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecommercenative.newproject",
+            "certificate_hash": "21009b85a5d8684f9fd23a7ee6f2d4854a9f2522"
+          }
+        },
+        {
+          "client_id": "377406759720-7sipomkha2hii8urd0gnqq2mle4q92mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8HGBwE4AHEWPenVUKv7ppIN2IL3fXZUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377406759720-7sipomkha2hii8urd0gnqq2mle4q92mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
